@@ -18,7 +18,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: 'Hero.io',
-  description: 'Hero.io is a social media platform for heroes. It is a social media platform for heroes.',
+  description:
+    'Hero.io is a social media platform for heroes. It is a social media platform for heroes.',
 };
 
 export default function RootLayout({ children }: LayoutProps<'/'>) {
@@ -30,10 +31,13 @@ export default function RootLayout({ children }: LayoutProps<'/'>) {
     >
       <body className="min-h-full flex flex-col" suppressHydrationWarning>
         <AppProvider>
-        <NavbarPage/>
-        <div>{children}</div>
-        <Footer/>
-        <ToastContainer/>
+          <NavbarPage />
+          <div>{children}</div>
+          <Footer />
+          <ToastContainer
+            position="bottom-right"
+            progressClassName="!bg-purple-400"
+          />
         </AppProvider>
       </body>
     </html>
