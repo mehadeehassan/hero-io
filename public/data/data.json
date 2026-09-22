@@ -1,0 +1,1718 @@
+[
+  {
+    "image": "https://store-images.s-microsoft.com/image/apps.8453.13655054093851568.4a371b72-2ce8-4bdb-9d83-be49894d3fa0.7f3687b9-847d-4f86-bb5c-c73259e2b38e",
+    "title": "WhatsApp Messenger",
+    "companyName": "WhatsApp LLC",
+    "id": 1,
+    "description": "WhatsApp Messenger is a free messaging app available for Android and other smartphones. WhatsApp uses your phone's Internet connection to let you message and call friends and family. Switch from SMS to WhatsApp to send and receive messages, calls, photos, videos, documents, and voice messages. Stay connected with people no matter where they are, safely and securely with end-to-end encryption.",
+    "size": 80,
+    "reviews": "172000K",
+    "ratingAvg": 4.5,
+    "downloads": "5000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3440000
+      },
+      {
+        "name": "2 star",
+        "count": 5160000
+      },
+      {
+        "name": "3 star",
+        "count": 10320000
+      },
+      {
+        "name": "4 star",
+        "count": 37840000
+      },
+      {
+        "name": "5 star",
+        "count": 115240000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=telegram.org&sz=256",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 2,
+    "description": "Telegram is a messaging app focused on speed and security. It's super-fast, simple, and free. Send messages, photos, videos, and files of any type. Create groups for up to 200,000 members or channels for broadcasting to unlimited audiences. Cloud-based and encrypted, Telegram keeps your data safe while syncing seamlessly across all devices.",
+    "size": 75,
+    "reviews": "22000K",
+    "ratingAvg": 4.6,
+    "downloads": "1000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 220000
+      },
+      {
+        "name": "2 star",
+        "count": 330000
+      },
+      {
+        "name": "3 star",
+        "count": 770000
+      },
+      {
+        "name": "4 star",
+        "count": 3300000
+      },
+      {
+        "name": "5 star",
+        "count": 17380000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=signal.org&sz=256",
+    "title": "Signal Private Messenger",
+    "companyName": "Signal Foundation",
+    "id": 3,
+    "description": "Signal is a simple, powerful, and free messaging app that protects your privacy with end-to-end encryption by default. Send text, voice, photo, and video messages, and make encrypted calls without ads, trackers, or compromises. Your conversations stay yours.",
+    "size": 45,
+    "reviews": "1800K",
+    "ratingAvg": 4.6,
+    "downloads": "100M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 18000
+      },
+      {
+        "name": "2 star",
+        "count": 27000
+      },
+      {
+        "name": "3 star",
+        "count": 63000
+      },
+      {
+        "name": "4 star",
+        "count": 270000
+      },
+      {
+        "name": "5 star",
+        "count": 1422000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=wechat.com&sz=256",
+    "title": "WeChat",
+    "companyName": "Tencent",
+    "id": 4,
+    "description": "WeChat is an all-in-one messaging and social app that lets you chat, call, share moments, and pay friends instantly. Connect with people worldwide through text, voice, and video, explore Official Accounts, and enjoy Mini Programs for shopping, gaming, and more, all within a single app.",
+    "size": 110,
+    "reviews": "6500K",
+    "ratingAvg": 4.1,
+    "downloads": "1000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 325000
+      },
+      {
+        "name": "2 star",
+        "count": 390000
+      },
+      {
+        "name": "3 star",
+        "count": 780000
+      },
+      {
+        "name": "4 star",
+        "count": 1885000
+      },
+      {
+        "name": "5 star",
+        "count": 3120000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=instagram.com&sz=256",
+    "title": "Instagram",
+    "companyName": "Instagram",
+    "id": 5,
+    "description": "Instagram brings you closer to the people and things you love. Connect with friends, share what you're up to, or see what's new from others all over the world. Explore communities, share photos and videos, and express yourself with creative tools like Reels, Stories, and filters.",
+    "size": 130,
+    "reviews": "160000K",
+    "ratingAvg": 4.2,
+    "downloads": "5000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 5600000
+      },
+      {
+        "name": "2 star",
+        "count": 7200000
+      },
+      {
+        "name": "3 star",
+        "count": 14400000
+      },
+      {
+        "name": "4 star",
+        "count": 43200000
+      },
+      {
+        "name": "5 star",
+        "count": 89600000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=facebook.com&sz=256",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 6,
+    "description": "Facebook helps you connect and share with the people in your life. Discover what's happening in the world, catch up with friends and family, and join groups that match your interests. Watch videos, follow pages, buy and sell on Marketplace, and stay close to the communities that matter most to you.",
+    "size": 95,
+    "reviews": "140000K",
+    "ratingAvg": 4.1,
+    "downloads": "5000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 7000000
+      },
+      {
+        "name": "2 star",
+        "count": 8400000
+      },
+      {
+        "name": "3 star",
+        "count": 16800000
+      },
+      {
+        "name": "4 star",
+        "count": 40600000
+      },
+      {
+        "name": "5 star",
+        "count": 67200000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=messenger.com&sz=256",
+    "title": "Messenger",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 7,
+    "description": "Messenger makes it easy to keep up with your favorite people, groups, and communities across platforms and devices. Send messages, make free video and voice calls, and share photos, GIFs, and stickers. With group chats, disappearing messages, and end-to-end encrypted calls, staying in touch has never been simpler.",
+    "size": 90,
+    "reviews": "62000K",
+    "ratingAvg": 3.9,
+    "downloads": "5000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 4960000
+      },
+      {
+        "name": "2 star",
+        "count": 5580000
+      },
+      {
+        "name": "3 star",
+        "count": 9300000
+      },
+      {
+        "name": "4 star",
+        "count": 17360000
+      },
+      {
+        "name": "5 star",
+        "count": 24800000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=snapchat.com&sz=256",
+    "title": "Snapchat",
+    "companyName": "Snap Inc",
+    "id": 8,
+    "description": "Snapchat lets you easily talk with friends, view Live Stories from around the world, and explore news in Discover. Send photos and videos that disappear after being viewed, or save memories to share later. Express yourself with filters, lenses, Bitmoji, and more.",
+    "size": 95,
+    "reviews": "28000K",
+    "ratingAvg": 4.3,
+    "downloads": "1000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 980000
+      },
+      {
+        "name": "2 star",
+        "count": 1260000
+      },
+      {
+        "name": "3 star",
+        "count": 2520000
+      },
+      {
+        "name": "4 star",
+        "count": 7560000
+      },
+      {
+        "name": "5 star",
+        "count": 15680000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=tiktok.com&sz=256",
+    "title": "TikTok",
+    "companyName": "TikTok Pte. Ltd.",
+    "id": 9,
+    "description": "TikTok is the destination for mobile videos. Create short-form videos that are exciting, spontaneous, and genuine. Whether you're a sports fan, a pet lover, or just looking for laughter, there's something for everyone on TikTok. Discover millions of creators and share your creativity with the world.",
+    "size": 180,
+    "reviews": "45000K",
+    "ratingAvg": 4.4,
+    "downloads": "3000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 900000
+      },
+      {
+        "name": "2 star",
+        "count": 1350000
+      },
+      {
+        "name": "3 star",
+        "count": 2700000
+      },
+      {
+        "name": "4 star",
+        "count": 9900000
+      },
+      {
+        "name": "5 star",
+        "count": 30150000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=x.com&sz=256",
+    "title": "Twitter (X)",
+    "companyName": "X Corp.",
+    "id": 10,
+    "description": "The X app (formerly Twitter) is the place to see what's happening. Follow your interests, join global conversations, and share your thoughts instantly. From breaking news to sports, entertainment, and politics, X connects you to the world in real-time.",
+    "size": 85,
+    "reviews": "30000K",
+    "ratingAvg": 4.0,
+    "downloads": "1000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1500000
+      },
+      {
+        "name": "2 star",
+        "count": 1800000
+      },
+      {
+        "name": "3 star",
+        "count": 3600000
+      },
+      {
+        "name": "4 star",
+        "count": 8700000
+      },
+      {
+        "name": "5 star",
+        "count": 14400000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=256",
+    "title": "LinkedIn",
+    "companyName": "LinkedIn Corporation",
+    "id": 11,
+    "description": "LinkedIn is the world's largest professional network. Connect with colleagues, discover career opportunities, and stay up to date with the latest industry trends. Build your personal brand, follow companies, and learn new skills through LinkedIn Learning.",
+    "size": 120,
+    "reviews": "25000K",
+    "ratingAvg": 4.4,
+    "downloads": "1000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 500000
+      },
+      {
+        "name": "2 star",
+        "count": 750000
+      },
+      {
+        "name": "3 star",
+        "count": 1500000
+      },
+      {
+        "name": "4 star",
+        "count": 5500000
+      },
+      {
+        "name": "5 star",
+        "count": 16750000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=reddit.com&sz=256",
+    "title": "Reddit",
+    "companyName": "Reddit Inc.",
+    "id": 12,
+    "description": "Reddit is home to thousands of communities, endless conversation, and authentic human connection. Dive into topics you care about, from news and sports to niche hobbies and everything in between. Join discussions, share your own posts, and find your corner of the internet.",
+    "size": 100,
+    "reviews": "9500K",
+    "ratingAvg": 4.5,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 190000
+      },
+      {
+        "name": "2 star",
+        "count": 285000
+      },
+      {
+        "name": "3 star",
+        "count": 570000
+      },
+      {
+        "name": "4 star",
+        "count": 2090000
+      },
+      {
+        "name": "5 star",
+        "count": 6365000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=pinterest.com&sz=256",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "id": 13,
+    "description": "Pinterest is where you go for inspiration to plan your next project, celebration, home decor, style, and more. Search and save ideas from millions of pins across recipes, fashion, travel, and DIY. Build boards to organize your favorite finds.",
+    "size": 70,
+    "reviews": "9000K",
+    "ratingAvg": 4.6,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 90000
+      },
+      {
+        "name": "2 star",
+        "count": 135000
+      },
+      {
+        "name": "3 star",
+        "count": 315000
+      },
+      {
+        "name": "4 star",
+        "count": 1350000
+      },
+      {
+        "name": "5 star",
+        "count": 7110000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=discord.com&sz=256",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 14,
+    "description": "Discord is where you can make a home for your communities and friends. Talk, chat, hang out, and stay close with voice, video, and text channels. Whether you're part of a school club, a gaming group, or just a handful of friends, Discord makes it easy to stay connected.",
+    "size": 130,
+    "reviews": "12000K",
+    "ratingAvg": 4.3,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 420000
+      },
+      {
+        "name": "2 star",
+        "count": 540000
+      },
+      {
+        "name": "3 star",
+        "count": 1080000
+      },
+      {
+        "name": "4 star",
+        "count": 3240000
+      },
+      {
+        "name": "5 star",
+        "count": 6720000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=viber.com&sz=256",
+    "title": "Viber Messenger",
+    "companyName": "Rakuten Viber",
+    "id": 15,
+    "description": "Viber is a free messaging and calling app that lets you connect with people around the world. Send messages, photos, and videos, make high-quality voice and video calls, and join communities, all protected with end-to-end encryption.",
+    "size": 65,
+    "reviews": "3200K",
+    "ratingAvg": 4.3,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 112000
+      },
+      {
+        "name": "2 star",
+        "count": 144000
+      },
+      {
+        "name": "3 star",
+        "count": 288000
+      },
+      {
+        "name": "4 star",
+        "count": 864000
+      },
+      {
+        "name": "5 star",
+        "count": 1792000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=line.me&sz=256",
+    "title": "LINE",
+    "companyName": "LINE Corporation",
+    "id": 16,
+    "description": "LINE is a free app that lets you enjoy messaging, voice, and video calls anytime, anywhere. Stay connected with friends and family through stickers, timeline posts, and official accounts from your favorite brands and creators.",
+    "size": 90,
+    "reviews": "4100K",
+    "ratingAvg": 4.2,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 143500
+      },
+      {
+        "name": "2 star",
+        "count": 184500
+      },
+      {
+        "name": "3 star",
+        "count": 369000
+      },
+      {
+        "name": "4 star",
+        "count": 1107000
+      },
+      {
+        "name": "5 star",
+        "count": 2296000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=threads.net&sz=256",
+    "title": "Threads",
+    "companyName": "Instagram",
+    "id": 17,
+    "description": "Threads is a space for sharing text updates and joining public conversations. Post your thoughts, follow topics you care about, and connect with the Instagram community in a simple, text-first experience.",
+    "size": 60,
+    "reviews": "2100K",
+    "ratingAvg": 4.0,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 105000
+      },
+      {
+        "name": "2 star",
+        "count": 126000
+      },
+      {
+        "name": "3 star",
+        "count": 252000
+      },
+      {
+        "name": "4 star",
+        "count": 609000
+      },
+      {
+        "name": "5 star",
+        "count": 1008000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=youtube.com&sz=256",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 18,
+    "description": "Get the official YouTube app for Android phones and tablets. See what the world is watching, from the hottest music videos to what's trending in gaming, entertainment, news, and more. Subscribe to channels you love and watch on any device.",
+    "size": 140,
+    "reviews": "145000K",
+    "ratingAvg": 4.5,
+    "downloads": "10000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2900000
+      },
+      {
+        "name": "2 star",
+        "count": 4350000
+      },
+      {
+        "name": "3 star",
+        "count": 8700000
+      },
+      {
+        "name": "4 star",
+        "count": 31900000
+      },
+      {
+        "name": "5 star",
+        "count": 97150000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=netflix.com&sz=256",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 19,
+    "description": "Looking for the most talked-about TV shows and movies? They're all on Netflix. Watch award-winning series, documentaries, movies, and stand-up specials. With personalized recommendations and offline viewing, Netflix makes it easy to find your next favorite story anytime, anywhere.",
+    "size": 150,
+    "reviews": "25000K",
+    "ratingAvg": 4.3,
+    "downloads": "1000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 875000
+      },
+      {
+        "name": "2 star",
+        "count": 1125000
+      },
+      {
+        "name": "3 star",
+        "count": 2250000
+      },
+      {
+        "name": "4 star",
+        "count": 6750000
+      },
+      {
+        "name": "5 star",
+        "count": 14000000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=spotify.com&sz=256",
+    "title": "Spotify: Music and Podcasts",
+    "companyName": "Spotify AB",
+    "id": 20,
+    "description": "Spotify gives you instant access to millions of songs, albums, and podcasts from artists all over the world. Stream your favorite tracks, discover new music, and build playlists with ease. With personalized recommendations and offline playback, Spotify makes it simple to enjoy the perfect soundtrack to your life.",
+    "size": 110,
+    "reviews": "32000K",
+    "ratingAvg": 4.4,
+    "downloads": "1000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 640000
+      },
+      {
+        "name": "2 star",
+        "count": 960000
+      },
+      {
+        "name": "3 star",
+        "count": 1920000
+      },
+      {
+        "name": "4 star",
+        "count": 7040000
+      },
+      {
+        "name": "5 star",
+        "count": 21440000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=primevideo.com&sz=256",
+    "title": "Amazon Prime Video",
+    "companyName": "Amazon Mobile LLC",
+    "id": 21,
+    "description": "Prime Video is a premium streaming service that offers Prime members access to exclusive series, award-winning Amazon Originals, and popular movies and TV shows. Download titles to watch offline and enjoy content across all your devices.",
+    "size": 40,
+    "reviews": "5200K",
+    "ratingAvg": 4.2,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 182000
+      },
+      {
+        "name": "2 star",
+        "count": 234000
+      },
+      {
+        "name": "3 star",
+        "count": 468000
+      },
+      {
+        "name": "4 star",
+        "count": 1404000
+      },
+      {
+        "name": "5 star",
+        "count": 2912000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=disneyplus.com&sz=256",
+    "title": "Disney+",
+    "companyName": "Disney",
+    "id": 22,
+    "description": "Disney+ is the streaming home for movies and shows from Disney, Pixar, Marvel, Star Wars, and National Geographic. Stream unlimited entertainment for the entire family, download titles for offline viewing, and create up to seven personalized profiles.",
+    "size": 100,
+    "reviews": "4800K",
+    "ratingAvg": 4.4,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 96000
+      },
+      {
+        "name": "2 star",
+        "count": 144000
+      },
+      {
+        "name": "3 star",
+        "count": 288000
+      },
+      {
+        "name": "4 star",
+        "count": 1056000
+      },
+      {
+        "name": "5 star",
+        "count": 3216000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=soundcloud.com&sz=256",
+    "title": "SoundCloud",
+    "companyName": "SoundCloud Global",
+    "id": 23,
+    "description": "SoundCloud is the world's largest music and audio streaming platform. Discover emerging artists, stream millions of tracks, create playlists, and follow your favorite creators. Upload your own tracks and connect directly with fans.",
+    "size": 55,
+    "reviews": "3600K",
+    "ratingAvg": 4.3,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 126000
+      },
+      {
+        "name": "2 star",
+        "count": 162000
+      },
+      {
+        "name": "3 star",
+        "count": 324000
+      },
+      {
+        "name": "4 star",
+        "count": 972000
+      },
+      {
+        "name": "5 star",
+        "count": 2016000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=twitch.tv&sz=256",
+    "title": "Twitch: Live Game Streaming",
+    "companyName": "Twitch Interactive",
+    "id": 24,
+    "description": "Twitch is where gamers and streamers connect. Watch live streams of your favorite games, esports, and creative content, chat with the community in real time, and follow channels to never miss a broadcast.",
+    "size": 75,
+    "reviews": "2900K",
+    "ratingAvg": 4.3,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 101500
+      },
+      {
+        "name": "2 star",
+        "count": 130500
+      },
+      {
+        "name": "3 star",
+        "count": 261000
+      },
+      {
+        "name": "4 star",
+        "count": 783000
+      },
+      {
+        "name": "5 star",
+        "count": 1624000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=supercell.com&sz=256",
+    "title": "Clash of Clans",
+    "companyName": "Supercell",
+    "id": 25,
+    "description": "Join millions of players worldwide as you build your village, raise a clan, and compete in epic Clan Wars! Clash of Clans is a strategic combat game where you command armies of Barbarians, Archers, and legendary heroes. Build defenses and raid others for loot.",
+    "size": 280,
+    "reviews": "65000K",
+    "ratingAvg": 4.6,
+    "downloads": "1000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 650000
+      },
+      {
+        "name": "2 star",
+        "count": 975000
+      },
+      {
+        "name": "3 star",
+        "count": 2275000
+      },
+      {
+        "name": "4 star",
+        "count": 9750000
+      },
+      {
+        "name": "5 star",
+        "count": 51350000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=pubgmobile.com&sz=256",
+    "title": "PUBG Mobile",
+    "companyName": "Level Infinite",
+    "id": 26,
+    "description": "PUBG Mobile delivers the most intense free-to-play multiplayer action on mobile. Drop into the battlefield, gear up, and fight to be the last one standing. Explore diverse maps, realistic weapons, and exciting modes like Team Deathmatch and Payload.",
+    "size": 750,
+    "reviews": "46000K",
+    "ratingAvg": 4.3,
+    "downloads": "1000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1610000
+      },
+      {
+        "name": "2 star",
+        "count": 2070000
+      },
+      {
+        "name": "3 star",
+        "count": 4140000
+      },
+      {
+        "name": "4 star",
+        "count": 12420000
+      },
+      {
+        "name": "5 star",
+        "count": 25760000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=king.com&sz=256",
+    "title": "Candy Crush Saga",
+    "companyName": "King",
+    "id": 27,
+    "description": "Start playing Candy Crush Saga today, a legendary puzzle game loved by millions around the world. Match colorful candies to progress through thousands of levels, each offering unique challenges and boosters. Easy to play but hard to master.",
+    "size": 260,
+    "reviews": "35000K",
+    "ratingAvg": 4.6,
+    "downloads": "1000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 350000
+      },
+      {
+        "name": "2 star",
+        "count": 525000
+      },
+      {
+        "name": "3 star",
+        "count": 1225000
+      },
+      {
+        "name": "4 star",
+        "count": 5250000
+      },
+      {
+        "name": "5 star",
+        "count": 27650000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=garena.com&sz=256",
+    "title": "Free Fire",
+    "companyName": "Garena International",
+    "id": 28,
+    "description": "Free Fire is the ultimate battle royale survival game on mobile. Drop onto a remote island, scavenge for weapons, and fight to be the last one standing in intense 10-minute matches. Team up with friends and customize your character.",
+    "size": 650,
+    "reviews": "38000K",
+    "ratingAvg": 4.2,
+    "downloads": "1000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1330000
+      },
+      {
+        "name": "2 star",
+        "count": 1710000
+      },
+      {
+        "name": "3 star",
+        "count": 3420000
+      },
+      {
+        "name": "4 star",
+        "count": 10260000
+      },
+      {
+        "name": "5 star",
+        "count": 21280000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=innersloth.com&sz=256",
+    "title": "Among Us",
+    "companyName": "Innersloth LLC",
+    "id": 29,
+    "description": "Play with 4-15 players online or in local WiFi as you attempt to prep your spaceship for departure. Crewmates can win by completing tasks or by finding and voting the impostor off the ship, but beware, the impostor is lurking.",
+    "size": 250,
+    "reviews": "5400K",
+    "ratingAvg": 4.4,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 108000
+      },
+      {
+        "name": "2 star",
+        "count": 162000
+      },
+      {
+        "name": "3 star",
+        "count": 324000
+      },
+      {
+        "name": "4 star",
+        "count": 1188000
+      },
+      {
+        "name": "5 star",
+        "count": 3618000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=sybogames.com&sz=256",
+    "title": "Subway Surfers",
+    "companyName": "SYBO Games",
+    "id": 30,
+    "description": "Dash as fast as you can through the subway and dodge the oncoming trains. Help Jake, Tricky, and Fresh escape from the grumpy Inspector and his dog in this endless runner. Grind trains with your cool crew and collect coins for the hoverboard of your dreams.",
+    "size": 175,
+    "reviews": "41000K",
+    "ratingAvg": 4.5,
+    "downloads": "1000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 820000
+      },
+      {
+        "name": "2 star",
+        "count": 1230000
+      },
+      {
+        "name": "3 star",
+        "count": 2460000
+      },
+      {
+        "name": "4 star",
+        "count": 9020000
+      },
+      {
+        "name": "5 star",
+        "count": 27470000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=minecraft.net&sz=256",
+    "title": "Minecraft",
+    "companyName": "Mojang Studios",
+    "id": 31,
+    "description": "Explore infinite worlds and build everything from the simplest of homes to the grandest of castles. Play in creative mode with unlimited resources or mine deep into survival mode, crafting weapons and armor to fend off dangerous mobs.",
+    "size": 620,
+    "reviews": "8200K",
+    "ratingAvg": 4.5,
+    "downloads": "100M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 164000
+      },
+      {
+        "name": "2 star",
+        "count": 246000
+      },
+      {
+        "name": "3 star",
+        "count": 492000
+      },
+      {
+        "name": "4 star",
+        "count": 1804000
+      },
+      {
+        "name": "5 star",
+        "count": 5494000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=roblox.com&sz=256",
+    "title": "Roblox",
+    "companyName": "Roblox Corporation",
+    "id": 32,
+    "description": "Roblox is the ultimate virtual universe that lets you create, share experiences, and be anything you can imagine. Join millions of players and explore immersive, user-generated 3D worlds. Build your own games or play thousands created by the community.",
+    "size": 260,
+    "reviews": "22000K",
+    "ratingAvg": 4.4,
+    "downloads": "1000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 440000
+      },
+      {
+        "name": "2 star",
+        "count": 660000
+      },
+      {
+        "name": "3 star",
+        "count": 1320000
+      },
+      {
+        "name": "4 star",
+        "count": 4840000
+      },
+      {
+        "name": "5 star",
+        "count": 14740000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=miniclip.com&sz=256",
+    "title": "8 Ball Pool",
+    "companyName": "Miniclip",
+    "id": 33,
+    "description": "Challenge friends and millions of players worldwide to games of billiards. Compete in tournaments, win coins, and level up your cue collection in the world's largest multiplayer pool game.",
+    "size": 95,
+    "reviews": "12500K",
+    "ratingAvg": 4.4,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 250000
+      },
+      {
+        "name": "2 star",
+        "count": 375000
+      },
+      {
+        "name": "3 star",
+        "count": 750000
+      },
+      {
+        "name": "4 star",
+        "count": 2750000
+      },
+      {
+        "name": "5 star",
+        "count": 8375000
+      }
+    ]
+  },
+  {
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.width-500.format-webp.webp",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "id": 34,
+    "description": "Gmail is Google's official email app, bringing the best of Gmail to your Android device. Enjoy a clean, simple interface, spam protection, and free storage. Access all your email accounts in one place, with smart features that help you stay organized and secure.",
+    "size": 40,
+    "reviews": "36000K",
+    "ratingAvg": 4.3,
+    "downloads": "10000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1260000
+      },
+      {
+        "name": "2 star",
+        "count": 1620000
+      },
+      {
+        "name": "3 star",
+        "count": 3240000
+      },
+      {
+        "name": "4 star",
+        "count": 9720000
+      },
+      {
+        "name": "5 star",
+        "count": 20160000
+      }
+    ]
+  },
+  {
+    "image": "https://www.computerhope.com/issues/pictures/google-drive-logo.png",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "id": 35,
+    "description": "Google Drive keeps your files safe, accessible, and easy to share, all in one place. Store photos, documents, and videos in the cloud, and access them from any device. Collaborate in real time on Docs, Sheets, and Slides, and share files securely.",
+    "size": 45,
+    "reviews": "16000K",
+    "ratingAvg": 4.4,
+    "downloads": "10000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 320000
+      },
+      {
+        "name": "2 star",
+        "count": 480000
+      },
+      {
+        "name": "3 star",
+        "count": 960000
+      },
+      {
+        "name": "4 star",
+        "count": 3520000
+      },
+      {
+        "name": "5 star",
+        "count": 10720000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=maps.google.com&sz=256",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 36,
+    "description": "Navigate your world faster and easier with Google Maps. Over 220 countries and territories mapped and hundreds of millions of businesses and places on the map. Get real-time GPS navigation, traffic, and transit info, and explore local neighborhoods.",
+    "size": 100,
+    "reviews": "160000K",
+    "ratingAvg": 4.4,
+    "downloads": "10000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3200000
+      },
+      {
+        "name": "2 star",
+        "count": 4800000
+      },
+      {
+        "name": "3 star",
+        "count": 9600000
+      },
+      {
+        "name": "4 star",
+        "count": 35200000
+      },
+      {
+        "name": "5 star",
+        "count": 107200000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=google.com&sz=256",
+    "title": "Google Chrome",
+    "companyName": "Google LLC",
+    "id": 37,
+    "description": "Chrome is a fast, secure, and free web browser built for Android. Browse the web with built-in Google Search, save data with Data Saver, and sync your bookmarks, history, and passwords across devices. Enjoy voice search, incognito mode, and smart safety features.",
+    "size": 190,
+    "reviews": "38000K",
+    "ratingAvg": 4.3,
+    "downloads": "10000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1330000
+      },
+      {
+        "name": "2 star",
+        "count": 1710000
+      },
+      {
+        "name": "3 star",
+        "count": 3420000
+      },
+      {
+        "name": "4 star",
+        "count": 10260000
+      },
+      {
+        "name": "5 star",
+        "count": 21280000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=256",
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft Corporation",
+    "id": 38,
+    "description": "Microsoft Teams is your hub for teamwork, bringing chat, video meetings, calling, and file collaboration into one app. Connect with colleagues, join meetings on the go, and co-author documents in real time. Teams keeps you organized and connected wherever you are.",
+    "size": 150,
+    "reviews": "6500K",
+    "ratingAvg": 4.4,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 130000
+      },
+      {
+        "name": "2 star",
+        "count": 195000
+      },
+      {
+        "name": "3 star",
+        "count": 390000
+      },
+      {
+        "name": "4 star",
+        "count": 1430000
+      },
+      {
+        "name": "5 star",
+        "count": 4355000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=zoom.us&sz=256",
+    "title": "Zoom Workplace",
+    "companyName": "Zoom Video Communications, Inc.",
+    "id": 39,
+    "description": "Zoom Workplace brings video meetings, chat, phone, and whiteboard together in one app. Host or join HD video meetings, collaborate with your team, and stay connected from anywhere. With screen sharing and virtual backgrounds, Zoom keeps you productive on the go.",
+    "size": 210,
+    "reviews": "13000K",
+    "ratingAvg": 4.5,
+    "downloads": "1000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 260000
+      },
+      {
+        "name": "2 star",
+        "count": 390000
+      },
+      {
+        "name": "3 star",
+        "count": 780000
+      },
+      {
+        "name": "4 star",
+        "count": 2860000
+      },
+      {
+        "name": "5 star",
+        "count": 8710000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=slack.com&sz=256",
+    "title": "Slack",
+    "companyName": "Slack Technologies",
+    "id": 40,
+    "description": "Slack is where work happens. Bring your team's communication, tools, and files together in one place. Organize conversations into channels, jump on huddles, and search your team's shared history to stay aligned and productive.",
+    "size": 105,
+    "reviews": "3400K",
+    "ratingAvg": 4.4,
+    "downloads": "100M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 68000
+      },
+      {
+        "name": "2 star",
+        "count": 102000
+      },
+      {
+        "name": "3 star",
+        "count": 204000
+      },
+      {
+        "name": "4 star",
+        "count": 748000
+      },
+      {
+        "name": "5 star",
+        "count": 2278000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=notion.so&sz=256",
+    "title": "Notion",
+    "companyName": "Notion Labs, Inc.",
+    "id": 41,
+    "description": "Notion is the connected workspace where better, faster work happens. Write, plan, organize, and collaborate, all in one place. Build wikis, manage projects, and take notes with flexible, easy-to-use tools that adapt to how you work.",
+    "size": 85,
+    "reviews": "900K",
+    "ratingAvg": 4.6,
+    "downloads": "50M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 9000
+      },
+      {
+        "name": "2 star",
+        "count": 13500
+      },
+      {
+        "name": "3 star",
+        "count": 31500
+      },
+      {
+        "name": "4 star",
+        "count": 135000
+      },
+      {
+        "name": "5 star",
+        "count": 711000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=docs.google.com&sz=256",
+    "title": "Google Docs",
+    "companyName": "Google LLC",
+    "id": 42,
+    "description": "Create, edit, and collaborate on documents with anyone from your phone, tablet, or computer. Work together in the same document at the same time, get things done anywhere, and access your files even offline.",
+    "size": 50,
+    "reviews": "5800K",
+    "ratingAvg": 4.5,
+    "downloads": "1000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 116000
+      },
+      {
+        "name": "2 star",
+        "count": 174000
+      },
+      {
+        "name": "3 star",
+        "count": 348000
+      },
+      {
+        "name": "4 star",
+        "count": 1276000
+      },
+      {
+        "name": "5 star",
+        "count": 3886000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=outlook.com&sz=256",
+    "title": "Microsoft Outlook",
+    "companyName": "Microsoft Corporation",
+    "id": 43,
+    "description": "Outlook for Android lets you bring both work and personal email accounts together in one place, with built-in calendar, contacts, and Office document scanning. Organize your inbox, schedule meetings, and stay on top of your day.",
+    "size": 130,
+    "reviews": "8600K",
+    "ratingAvg": 4.6,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 86000
+      },
+      {
+        "name": "2 star",
+        "count": 129000
+      },
+      {
+        "name": "3 star",
+        "count": 301000
+      },
+      {
+        "name": "4 star",
+        "count": 1290000
+      },
+      {
+        "name": "5 star",
+        "count": 6794000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=evernote.com&sz=256",
+    "title": "Evernote",
+    "companyName": "Evernote Corporation",
+    "id": 44,
+    "description": "Evernote is the app that helps you tame the chaos of everyday life. Take notes, capture ideas, save articles, and organize projects with tags and notebooks. Sync across all your devices so your notes are always with you.",
+    "size": 75,
+    "reviews": "1300K",
+    "ratingAvg": 4.2,
+    "downloads": "100M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 45500
+      },
+      {
+        "name": "2 star",
+        "count": 58500
+      },
+      {
+        "name": "3 star",
+        "count": 117000
+      },
+      {
+        "name": "4 star",
+        "count": 351000
+      },
+      {
+        "name": "5 star",
+        "count": 728000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=amazon.com&sz=256",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "id": 45,
+    "description": "Shop millions of products on Amazon, from electronics and fashion to groceries and household essentials. Track your orders, scan and shop, compare prices, and get personalized recommendations. With fast, free delivery for Prime members, shopping has never been easier.",
+    "size": 55,
+    "reviews": "27000K",
+    "ratingAvg": 4.5,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 540000
+      },
+      {
+        "name": "2 star",
+        "count": 810000
+      },
+      {
+        "name": "3 star",
+        "count": 1620000
+      },
+      {
+        "name": "4 star",
+        "count": 5940000
+      },
+      {
+        "name": "5 star",
+        "count": 18090000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=ebay.com&sz=256",
+    "title": "eBay",
+    "companyName": "eBay Inc.",
+    "id": 46,
+    "description": "Buy and sell almost anything on eBay, from electronics and fashion to collectibles and cars. Bid on auctions, buy it now, or list your own items for sale. With buyer protection and deals updated daily, eBay makes shopping and selling easy.",
+    "size": 85,
+    "reviews": "8000K",
+    "ratingAvg": 4.5,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 160000
+      },
+      {
+        "name": "2 star",
+        "count": 240000
+      },
+      {
+        "name": "3 star",
+        "count": 480000
+      },
+      {
+        "name": "4 star",
+        "count": 1760000
+      },
+      {
+        "name": "5 star",
+        "count": 5360000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=aliexpress.com&sz=256",
+    "title": "AliExpress",
+    "companyName": "Alibaba Group",
+    "id": 47,
+    "description": "Shop for the latest fashion, gadgets, home goods, and more at unbeatable prices. AliExpress connects you directly with sellers around the world, offering huge deals, buyer protection, and fast international shipping.",
+    "size": 60,
+    "reviews": "9800K",
+    "ratingAvg": 4.4,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 196000
+      },
+      {
+        "name": "2 star",
+        "count": 294000
+      },
+      {
+        "name": "3 star",
+        "count": 588000
+      },
+      {
+        "name": "4 star",
+        "count": 2156000
+      },
+      {
+        "name": "5 star",
+        "count": 6566000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=flipkart.com&sz=256",
+    "title": "Flipkart",
+    "companyName": "Flipkart Internet Pvt Ltd",
+    "id": 48,
+    "description": "Flipkart is India's leading online shopping destination, offering a wide range of products across categories like electronics, fashion, and home essentials. Enjoy easy returns, secure payments, and fast delivery across the country.",
+    "size": 45,
+    "reviews": "6200K",
+    "ratingAvg": 4.3,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 217000
+      },
+      {
+        "name": "2 star",
+        "count": 279000
+      },
+      {
+        "name": "3 star",
+        "count": 558000
+      },
+      {
+        "name": "4 star",
+        "count": 1674000
+      },
+      {
+        "name": "5 star",
+        "count": 3472000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=daraz.com.bd&sz=256",
+    "title": "Daraz Online Shopping App",
+    "companyName": "Daraz Group",
+    "id": 49,
+    "description": "Daraz is South Asia's leading online shopping and selling destination, offering thousands of brands and millions of products across categories. Enjoy exclusive deals, fast delivery, and cash on delivery across Bangladesh and the region.",
+    "size": 35,
+    "reviews": "2100K",
+    "ratingAvg": 4.3,
+    "downloads": "50M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 73500
+      },
+      {
+        "name": "2 star",
+        "count": 94500
+      },
+      {
+        "name": "3 star",
+        "count": 189000
+      },
+      {
+        "name": "4 star",
+        "count": 567000
+      },
+      {
+        "name": "5 star",
+        "count": 1176000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=uber.com&sz=256",
+    "title": "Uber",
+    "companyName": "Uber Technologies, Inc.",
+    "id": 50,
+    "description": "Request a ride, hail a taxi, or rent a car with Uber. Get where you need to go with real-time tracking, upfront pricing, and a range of ride options. Available in thousands of cities worldwide, Uber makes getting around simple and reliable.",
+    "size": 60,
+    "reviews": "11000K",
+    "ratingAvg": 4.5,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 220000
+      },
+      {
+        "name": "2 star",
+        "count": 330000
+      },
+      {
+        "name": "3 star",
+        "count": 660000
+      },
+      {
+        "name": "4 star",
+        "count": 2420000
+      },
+      {
+        "name": "5 star",
+        "count": 7370000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=waze.com&sz=256",
+    "title": "Waze - GPS, Maps, Traffic",
+    "companyName": "Google LLC",
+    "id": 51,
+    "description": "Waze helps you get where you're going as fast and efficiently as possible, using real-time data from millions of drivers. Get live traffic updates, crowdsourced hazard alerts, and the fastest routes based on current conditions.",
+    "size": 65,
+    "reviews": "4300K",
+    "ratingAvg": 4.5,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 86000
+      },
+      {
+        "name": "2 star",
+        "count": 129000
+      },
+      {
+        "name": "3 star",
+        "count": 258000
+      },
+      {
+        "name": "4 star",
+        "count": 946000
+      },
+      {
+        "name": "5 star",
+        "count": 2881000
+      }
+    ]
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?domain=paypal.com&sz=256",
+    "title": "PayPal",
+    "companyName": "PayPal, Inc.",
+    "id": 52,
+    "description": "PayPal makes it simple to send and receive money, shop online, and manage your finances securely. Pay friends and family, check out at your favorite stores, and track your spending, all from one app. With buyer protection and fast transfers, PayPal keeps your money moving safely.",
+    "size": 130,
+    "reviews": "12000K",
+    "ratingAvg": 4.3,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 420000
+      },
+      {
+        "name": "2 star",
+        "count": 540000
+      },
+      {
+        "name": "3 star",
+        "count": 1080000
+      },
+      {
+        "name": "4 star",
+        "count": 3240000
+      },
+      {
+        "name": "5 star",
+        "count": 6720000
+      }
+    ]
+  }
+]
